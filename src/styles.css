@@ -1,0 +1,28 @@
+/* CSS */
+.additional-details {
+    padding: 10px;
+  }
+  
+  .detail-group {
+    margin-bottom: 20px;
+  }
+  
+/* Override width of dropdown details */
+.detail-group p {
+  margin: 5px 0;
+  width: 100%; /* Set width to 100% */
+}
+
+.detail-label {
+  font-weight: bold;
+  width: 30%; /* Set width for labels */
+  display: inline-block; /* Allow labels to display inline */
+}
+
+.detail-item {
+  margin-left: 10px;
+  width: 70%; /* Set width for detail items */
+  display: inline-block; /* Allow detail items to display inline */
+}
+
+  
